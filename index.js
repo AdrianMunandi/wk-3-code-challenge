@@ -1,4 +1,4 @@
-    // Get references to the DOM elements
+// Get references to the DOM elements
 const filmsList = document.querySelector('#films');
 const movieTitle = document.querySelector('#movie-title');
 const runtime = document.querySelector('#runtime');
