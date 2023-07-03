@@ -20,7 +20,10 @@ background-color: #ebebeb;
     font-size: 22px;
   }
     h2{
-    color: rgb(4, 155, 4);
+    color: royalblue;
+    text-decoration: underline;
+    font-style: italic;
+
   }
 
   .container {
@@ -52,6 +55,7 @@ background-color: #ebebeb;
     color: black;
     background-color: tan;
     padding: 8px;
+    border-style: groove;
   }
   #films li:hover {
     color: blue;
